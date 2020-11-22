@@ -1,0 +1,2 @@
+# Ampliar-Livros
+Com estes códigos em Python, criados por uma pessoa com diversidade funcional sensorial, será possível a divisão e publicação de livros físicos, digitais ou até mesmo no Minecraft, visando a melhor distribuição de literários em domínio publico; aos que por ventura, não conseguem acompanhar a leitura tradicional. (OBS: Este projeto está em desenvolvimento. qualquer ajuda, feedback e ideia, serão bem-vindos!) 
